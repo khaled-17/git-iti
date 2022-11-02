@@ -2,8 +2,13 @@
 
 <h1>ينقسم المستودع الى ثلاث اجزاء 2 تاسك + ومجموعة من الاوامر البسيطة </h1>
 فى الاعلى التاسك الثانى اول يوم
+
 #########################
+
+
 ![image](https://user-images.githubusercontent.com/41763585/199598838-74570528-41b0-4fcb-8fc0-0ef430e0024d.png)
+
+
 ![image](https://user-images.githubusercontent.com/41763585/199598863-2b9a2289-2f8c-4609-a7fe-203ff22dfce5.png)
 
 
